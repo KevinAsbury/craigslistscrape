@@ -5,7 +5,9 @@ Lessons 12-22: Web Scraping Craigslist Jobs
 
 To run:
   * git clone https://github.com/pursuitky/craigslistscrape.git
-  * Open with IntelliJ and run
+  * cd craigslistscrape
+  * npm install
+  * node index.js
 
 Want to see what else I am learning? Please [visit my rel.it](https://repl.it/@pursuitky).
 
