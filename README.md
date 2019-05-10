@@ -9,7 +9,7 @@ To run:
   * npm install
   * node index.js
 
-Want to see what else I am learning? Please [visit my rel.it](https://repl.it/@pursuitky).
+Want to see what else I am learning? Please [visit my repl.it](https://repl.it/@pursuitky).
 
 ## Learn more
 
